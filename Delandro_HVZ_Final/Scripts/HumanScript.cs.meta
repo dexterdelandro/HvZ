@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d878adc884c37d14c8822c1f6905b466
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zombieFuturePositionPrefab: {fileID: 5210553365889863730, guid: adf5b4e7b596ba8429b154b99abe67a3,
+      type: 3}
+  - humanFuturePositionPrefab: {fileID: 275512210662400039, guid: a6d0c6b9908b9e5438e7e28e0b3f1737,
+      type: 3}
+  - zombieFuturePosition: {fileID: 2100000, guid: f1e1f452d5394cf429f4e105896c8f41,
+      type: 2}
+  - humanFuturePosition: {fileID: 2100000, guid: 1fae70f911114ef4fbd644e04ff8efef,
+      type: 2}
+  - forwardLine: {fileID: 2100000, guid: a082a09ca12bce54ba2c932efb09095d, type: 2}
+  - rightLine: {fileID: 2100000, guid: 713b3170021bf2847951d35f0acdad02, type: 2}
+  - chasingLine: {fileID: 2100000, guid: 59d29da07bb96014b97c01b683a99ba7, type: 2}
+  - target: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
